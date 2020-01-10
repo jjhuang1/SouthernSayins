@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Southern Sayins</title>
+
+<style>
+body {
+  background-image: url("/static/barn.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  background-size: cover;
+}
+.button {
+  background-color: #d91a1a;
+  border: none;
+  color: white;
+  padding: 15px 25px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  font-family:Georgia;
+}
+.container0 {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    font-family:Georgia;
+}
+.container1 {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    font-family:Georgia;
+}
+.container2 {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    font-family:Georgia;
+}
+</style>
+
+</head>
+
+<body>
+  <div class="container0">
+  <center><h1 style="font-family:georgia;"><font color="white" font size = "50">Southern Sayins</font></h1></center>
+  </div>
+  <div class="container1">
+  <form method ="get" id="form">
+    <center><input type="submit" class="button" value="Generate"></center>
+  </form>
+  </div>
+  <div class="container2">
+  <center><p id="result" style="color:white; font-size:150%;"></p></center>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script>
+      $('#form').on('submit', function(e){
+        var number = $('#num').val();
+        e.preventDefault();
+        $.ajax({
+          url: 'http://127.0.0.1:5000/generate/',
+          method: 'GET',
+          success: function(data) {
+            console.log(data);
+            document.getElementById("result").innerHTML = data;
+            $('#generate').html(data)
+          }
+        });
+      });
+    </script>
+
+
+</body>
+</html>
