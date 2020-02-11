@@ -1,915 +1,517 @@
-+ Well butter my butt and call me a biscuit! +
-
-+ Well that just fries my fritters! +
-
-+ Well spank my saddle and call me Seabiscuit! +
-
-+ Well pit that peach and plant it! +
-
-+ Why that just twists my tornado! +
-
-+ Why that just fingers my fiddle! +
-
-+ Why that just roasts my rhubarb! +
-
-+ Golly gump! +
-
-+ Well pickle my peach and call me Patty! +
-
-+ Sweet sarsaparilla! +
-
-+ Jumping jackalope! +
-
-+ Jumping Jesus on a pogo stick! +
-
-+ Well grease my pig and make me oink! +
-
-+ Well lick my leg! +
-
-+ Well butter my biscuit! +
-
-+ Jumping juniper! +
-
-+ Well aren√≠t you just a home-baked honey biscuit! +
-
-+ Lick that stamp and stick it! +
-
-+ Well tie me up and call me a pot roast! +
-
-+ Well toss me down the turnpike and call me a tumbleweed! +
-
-+ Well juice me and call me an orange! +
-
-+ Well stick me on a stovetop and call me a sausage! +
-
-+ Popping corn! +
-
-+ Good gumbo! +
-
-+ Well slap my seat and call me a steed! +
-
-+ Holy shirt and pants! +
-
-+ Holy heaven on a haystack! +
-
-+ Holy hell in a handbasket! +
-
-+ Holy Huckleberry Finn! +
-
-+ Holy Herbert Walker Christ! +
-
-+ Well toss me down the stairs and call me a stepdad/mom! +
-
-+ Well chop my head and call me a chicken! +
-
-+ Well boil me and call me broccoli! +
-
-+ You√≠re tougher than a two-dollar steak. +
-
-+ You√≠re more nervous than a cat in a room full of rocking chairs. +
-
-+ You√≠re madder than a wet hen. +
-
-+ This is harder than a hayseed in a horseshoe.  +
-
-+ That√≠s stranger than a dog on hind legs. +
-
-+ You√≠re more turned around than a clumsy chicken in a corn maze. +
-
-+ You√≠re sweet as Alabama apple pie. +
-
-+ You√≠re dumber than a moonshine chicken on a mobile. +
-
-+ You√≠re slicker than snot on a doorknob. +
-
-+ You√≠re more attractive than lightning to a mobile. +
-
-+ You√≠re more twisted up than a porch swing in a hurricane. +
-
-+ You√≠re sweeter than Cincinnati sarsaparilla. +
-
-+ You√≠re sweeter than Mississippi moonshine. +
-
-+ You√≠re sweeter than molasses on a Mississippi biscuit. +
-
-+ You√≠re prettier than a shiny Alabama apple. +
-
-+ You√≠re busier than a moth in a mitten. +
-
-+ You√≠re cooler than white wicker. +
-
-+ You√≠re faster than a month in a minute. +
-
-+ You√≠re sneakier than a snake in a rain spout. +
-
-+ That√≠s dumber than putting the haybale before the housewife. +
-
-+ You√≠re richer than cream on a copper penny. +
-
-+ You√≠re louder than a whistle in a windmill. +
-
-+ You√≠re louder than a wagon in a woodchipper. +
-
-+ That√≠s smaller than a mouse on a mobile. +
-
-+ You√≠re busier than a mouse in a mitten. +
-
-+ You√≠re older than the oak rings. +
-
-+ That√≠s longer than the church bell rings. +
-
-+ You√≠re fit as a flea on fatback bacon. +
-
-+ You√≠re tougher than a Texan two-by-four. +
-
-+ That√≠s flashier than a Texan belt buckle. +
-
-+ You√≠re thornier than a thicket. +
-
-+ You√≠re quicker than a thicket. +
-
-+ You√≠re closer than sweet peas in a pod. +
-
-+ You√≠re closer than kindred carrots in a bushel. +
-
-+ You√≠re happier than a pig in mud. +
-
-+ You√≠re slower than a worm in soil. +
-
-+ You√≠re nosier than bear in a beehive. +
-
-+ You√≠re older than the oaks. +
-
-+ You√≠re stout as a trout. +
-
-+ You√≠re comfier than a worm in soil. +
-
-+ You√≠re snugger than a bunny in burlap. +
-
-+ You√≠re tougher than Louisiana leather. +
-
-+ You√≠re tougher than Texas jerky. +
-
-+ That√≠s bigger than a Texan belt buckle. +
-
-+ You√≠re hungrier than cattle grazing on a soccer field. +
-
-+ You√≠re faster than a turkey on Thanksgiving. +
-
-+ You√≠re faster than a turkey on Thursday. +
-
-+ You√≠re more beautiful than springtime in Savannah. +
-
-+ You√≠re prettier than Autumn in Austin. +
-
-+ You√≠re hotter than Cincinnati summer. +
-
-+ It√≠s spicier than Satan√≠s armpit on a Sunday. +
-
-+ It√≠s colder than a Wisconsin winter. +
-
-+ It√≠s hotter than Satan√≠s armpits on Sunday. +
-
-+ You√≠re spicier than Cincinnati cinnamon. +
-
-+ You√≠re more stuffed up than a silo. +
-
-+ You√≠re more stuffed up than a fresh scarecrow. +
-
-+ You√≠re nosier than a suckling pig. +
-
-+ You√≠re fatter than a crow in a cornfield. +
-
-+ You√≠re quicker than a rattlesnake in a skillet. +
-
-+ You√≠re jumpier than a critter in a skillet. +
-
-+ You√≠re cheaper than wheat falling off the wagon.  +
-
-+ That√≠s spicier than bee in a boot. +
-
-+ It√≠s wetter than a watermelon in a well of whiskey. +
-
-+ It√≠s more humid than Hell in a well. +
-
-+ That√≠s louder than the slam of God√≠s door. +
-
-+ That√≠s louder than a proper preacher. +
-
-+ You√≠re rowdier than a churchyard dog. +
-
-+ You√≠re louder than a church bell on Sunday. +
-
-+ You√≠re cheaper than a Walmart weed-wacker. +
-
-+ You√≠re cheaper than a plastic post-digger. +
-
-+ That√≠s flimsier than a fence made of fritters. +
-
-+ That√≠s smaller than a squirrel in a silo. +
-
-+ Your wallet is tighter than a flea√≠s butt. +
-
-+ That√≠s taller than a mulberry on a mobile. +
-
-+ That√≠s sharper than a pitchfork in a preacher√≠s hand. +
-
-+ You√≠re sweeter than sinning on a Sunday. +
-
-+ You√≠re thinner than the bottom of a beggar√≠s boot. +
-
-+ It√≠s darker than a devil in a ditch at midnight. +
-
-+ It√≠s hotter than hell in a henhouse. +
-
-+ You√≠re crazier than a bat in a boot. +
-
-+ You√≠re angrier than a cat in a cotton gin. +
-
-+ You√≠re thicker than the Bible. +
-
-+ It√≠s wetter than God√≠s armpit on crucifixion√≠s eve. +
-
-+ It√≠s hotter than a June bug on a tin roof. +
-
-+ You√≠re cooler than a coonhound in Carolina. +
-
-+ You√≠re snugger than a bedbug. +
-
-+ You√≠re jumpier than a gator on a griddle. +
-
-+ Happier than a flea on a fox. +
-
-+ You√≠re fatter than a June raindrop. +
-
-+ You√≠re plumper than a Sunday strawberry. +
-
-+ You√≠re chummier than chitlins. +
-
-+ You√≠re scrappier than a crab. +
-
-+ You√≠re more predictable than the clang of church bells on Sunday. +
-
-+ You√≠re angrier than a snake in a burlap sack. +
-
-+ Your wallet is tighter than a wet boot. +
-
-+ You√≠re lonelier than a fiddler in a field. +
-
-+ You√≠re thicker than a horse hide. +
-
-+ You√≠re wider than a wagon wheel. +
-
-+ You√≠re cheaper than chicken-fried steak. +
-
-+ You√≠re more slippery than a snake in a silo. +
-
-+ You√≠re slicker than a suitcase salesman. +
-
-+ You√≠re more tapped out than a maple tree in May. +
-
-+ You√≠re more stirred up than a goose in a gutter. +
-
-+ You√≠re crazier than a cow flying a crop duster. +
-
-+ You√≠re nuttier than a squirrel√≠s cheek. +
-
-+ You√≠re sourer than a lemon on a stick. +
-
-+ That√≠s harder than a candy apple. +
-
-+ That√≠s harder than a copper chestnut. +
-
-+ You√≠re louder than a rattlesnake on a treadmill. +
-
-+ You√≠re rowdier than a cowbell in a cotton gin. +
-
-+ It√≠s darker than a black cat under a front porch. +
-
-+ That√≠s dirtier than a diggin√≠ dog. +
-
-+ You√≠re tougher than a tractor claw. +
-
-+ You√≠re tougher than a Texan√≠s toenail. +
-
-+ You√≠re stranger than a badger in a bib. +
-
-+ It√≠s stickier than tar in a tumble drier. +
-
-+ That√≠s bigger than a badger√≠s bottom. +
-
-+ You√≠re slicker than a snapper shell. +
-
-+ It√≠s wetter than a duck√≠s bottom. +
-
-+ You travel more than a tumbleweed on the turnpike. +
-
-+ You√≠re wider than a barn door. +
-
-+ I love you more than sweet tea on a Cincinnati Sunday  +
-
-+ You√≠re happier than a hellion on a hayride. +
-
-+ You√≠re sadder than a squirrel with no tail. +
-
-+ That√≠s harder than hickory tree stump. +
-
-+ You√≠re older than the hills. +
-
-+ You√≠re sharper than a thumbtack on a shingle. +
-
-+ You√≠re busier than a bonfire. +
-
-+  You√≠re getting busier than bunnies. +
-
-+ You√≠re duller than a crochet needle. +
-
-+ You√≠re quitting faster than a quilter. +
-
-+ You√≠re prouder than a peacock. +
-
-+ You√≠re thirstier than a dog in the desert. +
-
-+ That√≠s longer than a snake√≠s poop. +
-
-+ That√≠s longer than a snake√≠s stomach. +
-
-+ You√≠re redder than a cranberry bog at harvest. +
-
-+ You√≠re quieter than a mouse√≠s toot. +
-
-+ That√≠s tighter than a rat√≠s hat. +
-
-+ That√≠s bigger than a moose√≠s toot. +
-
-+ It√≠s harder to see than camouflage in a cornfield. +
-
-+ That√≠s like finding a cattail in a corn husk. +
-
-+ That√≠s like finding a peanut in an oyster. +
-
-+ You√≠ll be on it like moss on a Mississippi tree stump. +
-
-+ That√≠s like digging a pond and hoping for ducks. +
-
-+ That√≠s about as useful as a trap door in a canoe. +
-
-+ Well that√≠s like panning for gold with a beefsteak and a fiddle. +
-
-+ That√≠s like rubbing a jug and blowing a washboard. +
-
-+ You√≠re about as pleasant as burlap underwear. +
-
-+ You√≠re thirstier than a fish out of water. +
-
-+ That√≠s as rough as burlap underwear at a rodeo. +
-
-+ You√≠re about as noticeable as a mulberry on a mobile. +
-
-+ That√≠s as backwards as bacon on a bicycle. +
-
-+ You stand out like a cow at the Kentucky Derby. +
-
-+ You stand out like a rooster at a rest stop. +
-
-+ That√≠s like sticking your hand in a hole and hoping for catfish. +
-
-+ That√≠s like building a coop and hoping for chickens. +
-
-+ That√≠s like milking a mule and riding a cow. +
-
-+ That√≠s like trying to catch crows with a colander. +
-
-+ That√≠s like trying to kill crickets with a shotgun. +
-
-+ That√≠s about as likely as tapping whiskey out of a willow tree. +
-
-+ You√≠re sweating like a glass of sweet tea on Sunday brunch. +
-
-+ That√≠s about as useful as a saddle on a chicken. +
-
-+ That√≠s like licking the envelope before the stamp. +
-
-+ That√≠s like putting a horseshoe on a hog. +
-
-+ That√≠s like ploughing a field with a fork. +
-
-+ That√≠s like hooking a fish to catch worms. +
-
-+ You√≠re all hat and no cattle. +
-
-+ You√≠re all spit and no spinach. +
-
-+ You√≠re dumber than a donkey with a dent in its head. +
-
-+ You√≠ve only got one oar in the water. +
-
-+ You√≠re all whistle and no walk. +
-
-+ You√≠re just tap dancing at a rodeo. +
-
-+ Who√≠s this tall drink of Cincinnati sweet tea? +
-
-+ You really get my gravy. +
-
-+ You think the sun comes up just to hear you crow. +
-
-+ You√≠ve been running all over hell√≠s half acre. +
-
-+ You really tarnish my tractor. +
-
-+ He pinches a penny so tight that Lincoln screams. +
-
-+ You√≠re really hitting the bottom of the rain barrel. +
-
-+ You can√≠t swing a catfish without hitting a hungry hobo. +
-
-+ You really sud my soap. +
-
-+ You really rub my washboard. +
-
-+ You really burn my biscuits. +
-
-+ You really anger my apples. +
-
-+ You really pull my pitchfork. +
-
-+ You really kick my corndog. +
-
-+ You really scoop my scrapple. +
-
-+ You really cut my cobbler. +
-
-+ You really cage my racoons. +
-
-+ You really burn my bindle. +
-
-+ You really gnaw my prawns. +
-
-+ You really knot my net. +
-
-+ You really net my gnats. +
-
-+ You really nudge my nettles. +
-
-+ You really row my boat. +
-
-+ You really squish my squash. +
-
-+ You really stomp my seedlings. +
-
-+ You really carve my turkey. +
-
-+ You really carve my pumpkin. +
-
-+ You really shake my sugar. +
-
-+ You really chop my celery. +
-
-+ You really pinch my peppers. +
-
-+ You really plant my peonies. +
-
-+ You really pit my peaches. +
-
-+ You really peel my parsnips. +
-
-+ You really bruise my beets. +
-
-+ You really pain my peas. +
-
-+ You really fry my fish-sticks. +
-
-+ You really milk my mules. +
-
-+ You really sear my sausages. +
-
-+ You really seed my soybeans. +
-
-+ You really snuff my cigars. +
-
-+ You really tend my tomatoes. +
-
-+ You really wet my whistle. +
-
-+ You really wack my weeds. +
-
-+ You really cream my corn. +
-
-+ You really wrangle my wheat. +
-
-+ Get your bear head out of my beehive. +
-
-+ Get your boat out of my brook. +
-
-+ Get your beehive off my branch. +
-
-+ Keep your canoe out of my creek. +
-
-+ You really catch my crawdads. +
-
-+ You really peel my potato. +
-
-+ You really pick my pistachios. +
-
-+ You really milk my almonds. +
-
-+ You really chew my cashews. +
-
-+ You really get my gator. +
-
-+ You really cut my quilt. +
-
-+ You really chop my wood. +
-
-+ You really get my grits. +
-
-+ You really eat my eggplant. +
-
-+ You really stitch my saddle. +
-
-+ You really stir my stew. +
-
-+ You really light my candle. +
-
-+ Let√≠s address the cow in the chicken coop. +
-
-+ You√≠ve got a real burr in your boot. +
-
-+ You√≠re all talk and no tobacco. +
-
-+ That√≠s just a raindrop in the barrel. +
-
-+ You√≠re a snake in the grass. +
-
-+ You really griddle my vittles. +
-
-+ That√≠s just a drop in the bucket. +
-
-+ You really griddle my grits. +
-
-+ Keep your crows out of my cornfield. +
-
-+ You really get my goatmilk. +
-
-+ You really yee my haw. +
-
-+ Well that just sow√≠s my soybeans.  +
-
-+ Keep your manure off the mantle. +
-
-+ Keep your bugs out of my biscuit.  +
-
-+ You scared the skunk out of me. +
-
-+ You√≠ve got a real bee in your bramble. +
-
-+ You√≠ve got a real brand in your hind. +
-
-+ You√≠re all griddle and no fritter. +
-
-+ You√≠re stuck up higher than a cherry picker. +
-
-+ You√≠re busier than a three-legged cat in a sandbox. +
-
-+ You√≠re slower than a sack race. +
-
-+ You√≠re all sheep and no shear. +
-
-+ You really grind my grits. +
-
-+ You really miff my mullet. +
-
-+ You really mash my millet. +
-
-+ You√≠re all buckle and no belt. +
-
-+ You√≠re all stalk and no bean. +
-
-+ You√≠re quicker than Bisquick in a skillet. +
-
-+ You√≠re all dill and no pickle. +
-
-+ You really poke my cross-stitch. +
-
-+ You√≠ve got a real pitchfork in your pocket. +
-
-+ You√≠ve got a real grit in your gullet. +
-
-+ You really cook my collards. +
-
-+ You√≠ve got a real goose in your gutter. +
-
-+ You woke up on the wrong side of the haystack. +
-
-+ You really twist my toffee. +
-
-+ You really prick my pinkie. +
-
-+ You√≠ve got a real pit in your peach. +
-
-+ You really slick my whiskers. +
-
-+ You√≠re stuck between a horseshoe and a hay wheel. +
-
-+ You really claw my couch. +
-
-+ You√≠re quicker than a biscuit. +
-
-+ You really peel my paint. +
-
-+ You really bristle my broom +
-
-+ You√≠re the yolk to my egg. +
-
-+ You√≠re the gator to my net. +
-
-+ You really pick my lock. +
-
-+ You really splash my slickers. +
-
-+ You really lick my licorice. +
-
-+ You really shell my snapper turtle. +
-
-+ You really crack my chestnut. +
-
-+ You really cream my corn. +
-
-+ You really catch my critters. +
-
-+ If you don√≠t like scarecrows, get out of the cornfield. +
-
-+ If you don√≠t like the shadow, get out from under the cow. +
-
-+ Don√≠t dig the horse grave before the gunshot. +
-
-+ The hay doesn√≠t fall far from the wagon. +
-
-+ The pumpkins don√≠t grow far from the vine. +
-
-+ You can hope until the hogs come home, but it won√≠t do no good. +
-
-+ Don√≠t drink the delta dry. +
-
-+ Don√≠t eat in the outhouse and don√≠t crap in the kitchen. +
-
-+ Don√≠t put the haystack before the tractor. +
-
-+ Keep on like a steak and go against the grain. +
-
-+ Keep on like a saw and go against the grain. +
-
-+ Don√≠t pull a cow√≠s tail unless you√≠re ready for the kick. +
-
-+ Don√≠t put the harvest before the housewife. +
-
-+ Don√≠t put the good slacks on the scarecrow. +
-
-+ You can talk until the tractors come home, but it won√≠t do no good. +
-
-+ You can cry until the cows come home, but it won√≠t do no good. +
-
-+ Stop ringing the church bells ring for a light rain. +
-
-+ Don√≠t call the firehouse to snuff out a candle. +
-
-+ Everyone√≠s garden has manure. +
-
-+ Don√≠t wear your Sunday best for the Monday rest. +
-
-+ Don√≠t try to scrub a sinner clean. +
-
-+ Don√≠t go seeing clouds and hoping for rain. +
-
-+ Sometimes you have to wake the hen to get the egg. +
-
-+ Don√≠t go hanging your hopes on the wash-line. +
-
-+ Every wagon has a squeaky wheel. +
-
-+ Every crow has a few old feathers. +
-
-+ Every boot has a little mud. +
-
-+ Don√≠t dust your neighbor√≠s crops before yours. +
-
-+ Every old cat has claws. +
-
-+ There are lots of catfish in the creek. +
-
-+ Every road has its potholes. +
-
-+ Don√≠t try to dig a well with a spoon. +
-
-+ Don√≠t start a fire on the hearth. +
-
-+ Don√≠t put kindling on a candle. +
-
-+ Don√≠t stuff your mattress before the hay dries. +
-
-+ Don√≠t see a flicker and yell fire.  +
-
-+ Don√≠t pluck the pheasant and fry the feathers. +
-
-+ Don√≠t forget to build a gate in the fence. +
-
-+ Don√≠t kick the cow to make it moo. +
-
-+ Don√≠t build the fence before the barn. +
-
-+ Where the wind blows, the wheat grows. +
-
-+ When the corn dries, the crows fly. +
-
-+ Don√≠t milk the cat before the cow. +
-
-+ Load the shotgun before you throw the skeet. +
-
-+ Don√≠t count your seeds until they sprout. +
-
-+ Don√≠t milk the cow until it turns into a mule. +
-
-+ There are lots of kernels in the cornfield. +
-
-+ Don√≠t pick the flowers before the fruit. +
-
-+ Don√≠t eat the stem before the spinach. +
-
-+ Don√≠t eat the pit before the peach. +
-
-+ Every fence has its holes. +
-
-+ Sometimes you have to kick a horse to make it gallop. +
-
-+ You can√≠t have popcorn and make a corn maze too. +
-
-+ You can√≠t eat your pigs and love them too. +
-
-+ Even the fiercest snapper has a shell to hide in. +
-
-+ If you scare a skunk don√≠t expect perfume. +
-
-+ You can stay until the scarecrows come home, but it won√≠t do no good. +
-
-+ You can cry until the crows come home, but it won√≠t do no good. +
-
-+ Load your skeet before the sparrows come. +
-
-+ Don√≠t shear the sheep with a chainsaw. +
-
-+ Don√≠t put the plow before the ox. +
-
-+ Keep on like a catfish and swim upstream. +
-
-+ If you√≠re in a hole, stop digging. +
-
-+ If wolves come knocking, don√≠t give them a place at the table. +
-
-+ Don√≠t follow cows unless you want to step in crap. +
-
-+ Don√≠t follow goats to find gold. +
-
-+ Don√≠t pan for gold with a pitchfork. +
-
-+ Don√≠t leave your rake out in a rainstorm. +
-
-+ Don√≠t dig for mussels and expect to find mackerel. +
-
-+ If the hay truck is rocking, don√≠t come a-raking.  +
-
-+ Keep like a cranberry and rise to the top.  +
-
-+ Keep like cream and rise to the top. +
-
-+ When the preacher calls, the shoe falls.  +
-
-+ When the rooster calls, the night falls.  +
-
-+ When the rooster yawns, the day dawns.  +
-
-+ Don√≠t stuff your pillow with straw from the bottom of the stack.  +
-
-+ Keep your cows out of the kitchen and your Bisquick out of the barn.  +
-
-+ Don√≠t eat the horseshoe with the hind leg. +
-
-+ Don√≠t cut down the tree for a few cherries. +
-
-+ You√≠re a good southern gentleman, buttered and fried. +
-
-+ You√≠re so stuck-up that you√≠d drown in a rainstorm. +
-
-+ You wouldn√≠t give a nickel to see Jesus on a bicycle. +
-
-+ I√≠ll love you until the cows come home. +
-
-+ I√≠ll love you longer than snakes slither. +
-
-+ I love you farther than the crow flies. +
-
-+ I√≠ll love you until pigs fly. +
-
-+ You√≠re a down-home sugar-spiced southern lady. +
-
-+ You√≠re a proper pitchfork-wielding preacher. +
-
-+ You√≠re a proper field-fiddling farmer. +
-
-+ I√≠ll love you longer than the Mississippi. +
-
-+ I√≠ll love you longer than the Sunday sermon. +
-
++Well butter my butt and call me a biscuit!+
++Well that just fries my fritters!+
++Well spank my saddle and call me Seabiscuit!+
++Well pit that peach and plant it!+
++Why that just twists my tornado!+
++Why that just fingers my fiddle!+
++Why that just roasts my rhubarb!+
++Golly gump!+
++Well pickle my peach and call me Patty!+
++Sweet sarsaparilla!+
++Jumping jackalope!+
++Jumping Jesus on a pogo stick!+
++Well grease my pig and make me oink!+
++Well lick my leg!+
++Well butter my biscuit!+
++Jumping juniper!+
++Well arenít you just a home-baked honey biscuit!+
++Lick that stamp and stick it!+
++Well tie me up and call me a pot roast!+
++Well toss me down the turnpike and call me a tumbleweed!+
++Well juice me and call me an orange!+
++Well stick me on a stovetop and call me a sausage!+
++Popping corn!+
++Good gumbo!+
++Well slap my ass and call me a steed!+
++Holy shirt and pants!+
++Holy heaven on a haystack!+
++Holy hell in a handbasket!+
++Holy Huckleberry Finn!+
++Holy Herbet Walker Christ!+
++Well toss me down the stairs and call me a stepdad/mom!+
++Well chop my head and call me a chicken!+
++Well boil me and call me broccoli!+
++Youíre tougher than a two-dollar steak.+
++Youíre more nervous than a cat in a room full of rocking chairs.+
++Youíre madder than a wet hen.+
++This is harder than a hayseed in a horseshoe. +
++Thatís stranger than a dog on hind legs.+
++Youíre more turned around than a clumsy chicken in a corn maze.+
++Youíre sweet as Alabama apple pie.+
++Youíre dumber than a moonshine chicken on a mobile.+
++Youíre slicker than snot on a doorknob.+
++Youíre more attractive than lightning to a mobile.+
++Youíre more twisted up than a porch swing in a hurricane.+
++Youíre sweeter than Cincinnati sarsaparilla.+
++Youíre sweeter than Mississippi moonshine.+
++Youíre sweeter than molasses on a Mississippi biscuit.+
++Youíre prettier than a shiny Alabama apple.+
++Youíre busier than a moth in a mitten.+
++Youíre cooler than white wicker.+
++Youíre faster than a month in a minute.+
++Youíre sneakier than a snake in a rain spout.+
++Thatís dumber than putting the haybale before the housewife.+
++Youíre richer than cream on a copper penny.+
++Youíre louder than a whistle in a windmill.+
++Youíre louder than a wagon in a woodchipper.+
++Thatís smaller than a mouse on a mobile.+
++Youíre busier than a mouse in a mitten.+
++Youíre older than the oak rings.+
++Thatís longer than the church bell rings.+
++Youíre fit as a flea on fatback bacon.+
++Youíre tougher than a Texan two-by-four.+
++Thatís flashier than a Texan belt buckle.+
++Youíre thornier than a thicket.+
++Youíre quicker than a thicket.+
++Youíre closer than sweet peas in a pod.+
++Youíre closer than kindred carrots in a bushel.+
++Youíre happier than a pig in mud.+
++Youíre slower than a worm in soil.+
++Youíre nosier than bear in a beehive.+
++Youíre older than the oaks.+
++Youíre stout as a trout.+
++Youíre comfier than a worm in soil.+
++Youíre snugger than a bunny in burlap.+
++Youíre tougher than Louisiana leather.+
++Youíre tougher than Texas jerky.+
++Thatís bigger than a Texan belt buckle.+
++Youíre hungrier than cattle grazing on a soccer field.+
++Youíre faster than a turkey on Thanksgiving.+
++Youíre faster than a turkey on Thursday.+
++Youíre more beautiful than springtime in Savannah.+
++Youíre prettier than Autumn in Austin.+
++Youíre hotter than Cincinnati summer.+
++Itís spicier than Satanís armpit on a Sunday.+
++Itís colder than a Wisconsin winter.+
++Itís hotter than Satanís armpits on Sunday.+
++Youíre spicier than Cincinnati cinnamon.+
++Youíre more stuffed up than a silo.+
++Youíre more stuffed up than a fresh scarecrow.+
++Youíre nosier than a suckling pig.+
++Youíre fatter than a crow in a cornfield.+
++Youíre quicker than a rattlesnake in a skillet.+
++Youíre jumpier than a critter in a skillet.+
++Youíre cheaper than wheat falling off the wagon. +
++Thatís spicier than bee in a boot.+
++Itís wetter than a watermelon in a well of whiskey.+
++Itís more humid than Hell in a well.+
++Thatís louder than the slam of Godís door.+
++Thatís louder than a proper preacher.+
++Youíre rowdier than a churchyard dog.+
++Youíre louder than a church bell on Sunday.+
++Youíre cheaper than a Walmart weed-wacker.+
++Youíre cheaper than a plastic post-digger.+
++Thatís flimsier than a fence made of fritters.+
++Thatís smaller than a squirrel in a silo.+
++Your wallet is tighter than a fleaís butt.+
++Thatís taller than a mulberry on a mobile.+
++Thatís sharper than a pitchfork in a preacherís hand.+
++Youíre sweeter than sinning on a Sunday.+
++Youíre thinner than the bottom of a beggarís boot.+
++Itís darker than a devil in a ditch at midnight.+
++Itís hotter than hell in a henhouse.+
++Youíre crazier than a bat in a boot.+
++Youíre angrier than a cat in a cotton gin.+
++Youíre thicker than the Bible.+
++Itís wetter than Godís armpit on crucifixionís eve.+
++Itís hotter than a June bug on a tin roof.+
++Youíre cooler than a coonhound in Carolina.+
++Youíre snugger than a bedbug.+
++Youíre jumpier than a gator on a griddle.+
++Happier than a flea on a fox.+
++Youíre fatter than a June raindrop.+
++Youíre plumper than a Sunday strawberry.+
++Youíre chummier than chitlins.+
++Youíre scrappier than a crab.+
++Youíre more predictable than the clang of church bells on Sunday.+
++Youíre angrier than a snake in a burlap sack.+
++Your wallet is tighter than a wet boot.+
++Youíre lonelier than a fiddler in a field.+
++Youíre thicker than a horse hide.+
++Youíre wider than a wagon wheel.+
++Youíre cheaper than chicken-fried steak.+
++Youíre more slippery than a snake in a silo.+
++Youíre slicker than a suitcase salesman.+
++Youíre more tapped out than a maple tree in May.+
++Youíre more stirred up than a goose in a gutter.+
++Youíre crazier than a cow flying a crop duster.+
++Youíre nuttier than a squirrelís cheek.+
++Youíre sourer than a lemon on a stick.+
++Thatís harder than a candy apple.+
++Thatís harder than a copper chestnut.+
++Youíre louder than a rattlesnake on a treadmill.+
++Youíre rowdier than a cowbell in a cotton gin.+
++Itís darker than a black cat under a front porch.+
++Thatís dirtier than a digginí dog.+
++Youíre tougher than a tractor claw.+
++Youíre tougher than a Texanís toenail.+
++Youíre stranger than a badger in a bib.+
++Itís stickier than tar in a tumble drier.+
++Thatís bigger than a badgerís bottom.+
++Youíre slicker than a snapper shell.+
++Itís wetter than a duckís bottom.+
++You travel more than a tumbleweed on the turnpike.+
++Youíre wider than a barn door.+
++I love you more than sweet tea on a Cincinnati Sunday +
++Youíre happier than a hellion on a hayride.+
++Youíre sadder than a squirrel with no tail.+
++Thatís harder than hickory tree stump.+
++Youíre older than the hills.+
++Youíre sharper than a thumbtack on a shingle.+
++Youíre busier than a bonfire.+
++ Youíre getting busier than bunnies.+
++Youíre duller than a crochet needle.+
++Youíre quitting faster than a quilter.+
++Youíre prouder than a peacock.+
++Youíre thirstier than a dog in the desert.+
++Thatís longer than a snakeís poop.+
++Thatís longer than a snakeís stomach.+
++Youíre redder than a cranberry bog at harvest.+
++Youíre quieter than a mouseís toot.+
++Thatís tighter than a ratís hat.+
++Thatís bigger than a mooseís toot.+
++Itís harder to see than camouflage in a cornfield.+
++Thatís like finding a cattail in a corn husk.+
++Thatís like finding a peanut in an oyster.+
++Youíll be on it like moss on a Mississippi tree stump.+
++Thatís like digging a pond and hoping for ducks.+
++Thatís about as useful as a trap door in a canoe.+
++Well thatís like panning for gold with a beefsteak and a fiddle.+
++Thatís like rubbing a jug and blowing a washboard.+
++Youíre about as pleasant as burlap underwear.+
++Youíre thirstier than a fish out of water.+
++Thatís as rough as burlap underwear at a rodeo.+
++Youíre about as noticeable as a mulberry on a mobile.+
++Thatís as backwards as bacon on a bicycle.+
++You stand out like a cow at the Kentucky Derby.+
++You stand out like a rooster at a rest stop.+
++Thatís like sticking your hand in a hole and hoping for catfish.+
++Thatís like building a coop and hoping for chickens.+
++Thatís like milking a mule and riding a cow.+
++Thatís like trying to catch crows with a colander.+
++Thatís like trying to kill crickets with a shotgun.+
++Thatís about as likely as tapping whiskey out of a willow tree.+
++Youíre sweating like a glass of sweet tea on Sunday brunch.+
++Thatís about as useful as a saddle on a chicken.+
++Thatís like licking the envelope before the stamp.+
++Thatís like putting a horseshoe on a hog.+
++Thatís like ploughing a field with a fork.+
++Thatís like hooking a fish to catch worms.+
++Youíre all hat and no cattle.+
++Youíre all spit and no spinach.+
++Youíve only got one oar in the water.+
++Youíre all whistle and no walk.+
++Youíre just tap dancing at a rodeo.+
++Whoís this tall drink of Cincinnati sweet tea?+
++You really get my gravy.+
++You think the sun comes up just to hear you crow.+
++Youíve been running all over hellís half acre.+
++You really tarnish my tractor.+
++He pinches a penny so tight that Lincoln screams.+
++Youíre really hitting the bottom of the rain barrel.+
++You canít swing a catfish without hitting a hungry hobo.+
++You really sud my soap.+
++You really rub my washboard.+
++You really burn my biscuits.+
++You really anger my apples.+
++You really pull my pitchfork.+
++You really kick my corndog.+
++You really scoop my scrapple.+
++You really cut my cobbler.+
++You really cage my racoons.+
++You really burn my bindle.+
++You really gnaw my prawns.+
++You really knot my net.+
++You really net my gnats.+
++You really nudge my nettles.+
++You really row my boat.+
++You really squish my squash.+
++You really stomp my seedlings.+
++You really carve my turkey.+
++You really carve my pumpkin.+
++You really shake my sugar.+
++You really chop my celery.+
++You really pinch my peppers.+
++You really plant my peonies.+
++You really pit my peaches.+
++You really peel my parsnips.+
++You really bruise my beets.+
++You really pain my peas.+
++You really fry my fish-sticks.+
++You really milk my mules.+
++You really sear my sausages.+
++You really seed my soybeans.+
++You really snuff my cigars.+
++You really tend my tomatoes.+
++You really wet my whistle.+
++You really wack my weeds.+
++You really cream my corn.+
++You really wrangle my wheat.+
++Get your bear head out of my beehive.+
++Get your boat out of my brook.+
++Get your beehive off my branch.+
++Keep your canoe out of my creek.+
++You really catch my crawdads.+
++You really peel my potato.+
++You really pick my pistachios.+
++You really milk my almonds.+
++You really chew my cashews.+
++You really get my gator.+
++You really cut my quilt.+
++You really chop my wood.+
++You really get my grits.+
++You really eat my eggplant.+
++You really stitch my saddle.+
++You really stir my stew.+
++You really light my candle.+
++Letís address the cow in the chicken coop.+
++Youíve got a real burr in your boot.+
++Youíre all talk and no tobacco.+
++Thatís just a raindrop in the barrel.+
++Youíre a snake in the grass.+
++You really griddle my vittles.+
++Thatís just a drop in the bucket.+
++You really griddle my grits.+
++Keep your crows out of my cornfield.+
++You really get my goatmilk.+
++You really yee my haw.+
++Well that just sowís my soybeans. +
++Keep your manure off the mantle.+
++Keep your bugs out of my biscuit. +
++You scared the skunk out of me.+
++Youíve got a real bee in your bramble.+
++Youíve got a real brand in your hind.+
++Youíre all griddle and no fritter.+
++Youíre stuck up higher than a cherry picker.+
++Youíre busier than a three-legged cat in a sandbox.+
++Youíre slower than a sack race.+
++Youíre all sheep and no shear.+
++You really grind my grits.+
++You really miff my mullet.+
++You really mash my millet.+
++Youíre all buckle and no belt.+
++Youíre all stalk and no bean.+
++Youíre quicker than Bisquick in a skillet.+
++Youíre all dill and no pickle.+
++You really poke my cross-stitch.+
++Youíve got a real pitchfork in your pocket.+
++Youíve got a real grit in your gullet.+
++You really cook my collards.+
++Youíve got a real goose in your gutter.+
++You woke up on the wrong side of the haystack.+
++You really twist my toffee.+
++You really prick my pinkie.+
++Youíve got a real pit in your peach.+
++You really slick my whiskers.+
++Youíre stuck between a horseshoe and a hay wheel.+
++You really claw my couch.+
++Youíre quicker than a biscuit.+
++You really peel my paint.+
++You really bristle my broom+
++Youíre the yolk to my egg.+
++Youíre the gator to my net.+
++You really pick my lock.+
++You really splash my slickers.+
++You really lick my licorice.+
++You really shell my snapper turtle.+
++You really crack my chestnut.+
++You really cream my corn.+
++You really catch my critters.+
++If you donít like scarecrows, get out of the cornfield.+
++If you donít like the shadow, get out from under the cow.+
++Donít dig the horse grave before the gunshot.+
++The hay doesnít fall far from the wagon.+
++The pumpkins donít grow far from the vine.+
++You can hope until the hogs come home, but it wonít do no good.+
++Donít drink the delta dry.+
++Donít eat in the outhouse and donít crap in the kitchen.+
++Donít put the haystack before the tractor.+
++Keep on like a steak and go against the grain.+
++Keep on like a saw and go against the grain.+
++Donít pull a cowís tail unless youíre ready for the kick.+
++Donít put the harvest before the housewife.+
++Donít put the good slacks on the scarecrow.+
++You can talk until the tractors come home, but it wonít do no good.+
++You can cry until the cows come home, but it wonít do no good.+
++Stop ringing the church bells ring for a light rain.+
++Donít call the firehouse to snuff out a candle.+
++Everyoneís garden has manure.+
++Donít wear your Sunday best for the Monday rest.+
++Donít try to scrub a sinner clean.+
++Donít go seeing clouds and hoping for rain.+
++Sometimes you have to wake the hen to get the egg.+
++Donít go hanging your hopes on the wash-line.+
++Every wagon has a squeaky wheel.+
++Every crow has a few old feathers.+
++Every boot has a little mud.+
++Donít dust your neighborís crops before yours.+
++Every old cat has claws.+
++There are lots of catfish in the creek.+
++Every road has its potholes.+
++Donít try to dig a well with a spoon.+
++Donít start a fire on the hearth.+
++Donít put kindling on a candle.+
++Donít stuff your mattress before the hay dries.+
++Donít see a flicker and yell fire. +
++Donít pluck the pheasant and fry the feathers.+
++Donít forget to build a gate in the fence.+
++Donít kick the cow to make it moo.+
++Donít build the fence before the barn.+
++Where the wind blows, the wheat grows.+
++When the corn dries, the crows fly.+
++Donít milk the cat before the cow.+
++Load the shotgun before you throw the skeet.+
++Donít count your seeds until they sprout.+
++Donít milk the cow until it turns into a mule.+
++There are lots of kernels in the cornfield.+
++Donít pick the flowers before the fruit.+
++Donít eat the stem before the spinach.+
++Donít eat the pit before the peach.+
++Every fence has its holes.+
++Sometimes you have to kick a horse to make it gallop.+
++You canít have popcorn and make a corn maze too.+
++You canít eat your pigs and love them too.+
++Even the fiercest snapper has a shell to hide in.+
++If you scare a skunk donít expect perfume.+
++You can stay until the scarecrows come home, but it wonít do no good.+
++You can cry until the crows come home, but it wonít do no good.+
++Load your skeet before the sparrows come.+
++Donít shear the sheep with a chainsaw.+
++Donít put the plow before the ox.+
++Keep on like a catfish and swim upstream.+
++If youíre in a hole, stop digging.+
++If wolves come knocking, donít give them a place at the table.+
++Donít follow cows unless you want to step in crap.+
++Donít follow goats to find gold.+
++Donít pan for gold with a pitchfork.+
++Donít leave your rake out in a rainstorm.+
++Donít dig for mussels and expect to find mackerel.+
++If the hay truck is rocking, donít come a-raking. +
++Keep like a cranberry and rise to the top. +
++Keep like cream and rise to the top.+
++When the preacher calls, the shoe falls. +
++When the rooster calls, the night falls. +
++When the rooster yawns, the day dawns. +
++Donít stuff your pillow with straw from the bottom of the stack. +
++Keep your cows out of the kitchen and your Bisquick out of the barn. +
++Donít eat the horseshoe with the hind leg.+
++Donít cut down the tree for a few cherries.+
++Heís a good southern gentleman, buttered and fried.+
++Youíre so stuck-up that youíd drown in a rainstorm.+
++You wouldnít give a nickel to see Jesus on a bicycle.+
++Iíll love you until the cows come home.+
++Iíll love you longer than snakes slither.+
++I love you farther than the crow flies.+
++Iíll love you until pigs fly.+
++Sheís a down-home sugar-spiced southern lady.+
++Heís a proper pitchfork-wielding preacher.+
++Heís a proper field-fiddling farmer.+
++Iíll love you longer than the Mississippi.+
++Iíll love you longer than the Sunday sermon.+
 + Son of a brisket! +
-
 + Son of a biscuit! +
-
 + Well tamp my tobacco! +
-
 + You really dry my dowels +
-
 + You really dry my jerkey. +
-
 + You really rip my rags. +
-
 + You really twist my towels. +
-
 + You really stain my slacks. +
-
 + Well jump a wagon and call me John Wayne! +
-
 + Well lasso my longhorn! +
-
-+ Don√≠t put your tractor away muddy. +
-
-+ Don√≠t give the farm away for a few chickens. +
-
-+ Don√≠t put the picket fence on the porch. +
-
-+ Don√≠t rack the wrong rifle. +
-
-+ Don√≠t set out a picnic if you don√≠t want ants. +
-
-+ Don√≠t go mudding and expect to stay clean. +
-
-+ Don√≠t hose the truck off before you go mudding. +
-
-+ That√≠s like hitching your wagon to a horse with no legs. +
-
++ Donít put your tractor away muddy. +
++ Donít give the farm away for a few chickens. +
++ Donít put the picket fence on the porch. +
++ Donít rack the wrong rifle. +
++ Donít set out a picnic if you donít want ants. +
++ Donít go mudding and expect to stay clean. +
++ Donít hose the truck off before you go mudding. +
++ Thatís like hitching your wagon to a horse with no legs. +
 + You really chew my cashews. +
-
 + You really burn my bonfire. +
-
 + You really pull my pork. +
-
 + You really burn my brisket. +
-
 + You are the rack my ribs. +
-
 + You really crunch my crackers. +
-
 + You really fire up my four-wheeler. +
-
 + You are the sun to my set. +
-
 + You really grab my gun. +
-
 + You really rub my ribs. +
-
 + You really bust my barrels. +
-
-+ Don√≠t kill the pig before you get the blood bucket. +
-
-+ You√≠re closer than silk in a corn pod. +
-
++ Donít kill the pig before you get the blood bucket. +
++ Youíre closer than silk in a corn pod. +
 + The cure for chlamydia is a Coca-cola. +
-
 + Smaller than a pickled pea. +
-
 + You are the sauce to my spareribs. +
-
 + You are the silk to my corn. +
-
-+ Don√≠t trust a man who swallows his dip. +
-
++ Donít trust a man who swallows his dip. +
 + Smaller than the seeds on a strawberry. +
-
-+ You really sweeten my tea. +
-
-+ Get your lemon out of my sweet tea. +
-
-+ Get your lemon out of my ade. +
-
 + You really cash my crops. +
-
 + You are the wheel to my wagon. +
-
 + You are the mill to my wind. +
-
-+ You√≠ve got the gall of a grindstone. +
-
++ Youíve got the gall of a grindstone. +
 + You are the water to my wheel. +
-
 + You really diesel my Dodge. +
-
-
++  Donít trust whatís hiding under a ten-gallon-hat. +
++  Donít buy a hat bigger than your horse. +
++In a pinch, a cowboy hat makes a great bowl for soup. +
++Beans and greens make a cowboy mean. +
++Donít plan further than the horizon. +
++Donít run your horse until its heart gives out. +
++Donít build a railroad through a riverbed. +
++Donít build a railroad with rusty nails. +
++Donít wear a top hat unless you can afford to lose it. +
++Donít bring your scurvy into the saloon. +
++Donít drag your digger until it dies.+
++You really suckle my swine.+
++Youíre all hunt and no hog.+
++Well hunt me a hog and call me a dog! +
++Well shell my cashew!+
++Well peel my peanut!+
++Well crack my chestnut!+
++Well crunch my crackers!+
++Well poke my peepers with a pitchfork! +
++Peeping preacher! +
++Weíll burn my barn and call me a bum! +
++You really peel my potatoes. +
++Donít peel a poor manís potatoes. +
++Youíre all pitch and no fork.+
++Youíre all ditch and no dirt.+
++Youíre all picket and no pitchfork.+
++Youíre all flannel and no fire.+
++You really chop my log.+
++You really drain my bog. +
++Youíre a real crack in the canoe.+
++You really bog my boat.+
++You really toil my soil.+
++You really sharpen my shears. +
++You really shovel my shoal. +
++Donít drill for oil with a post hole and a coil+
++Donít wake a snake before daybreak.+
++Donít paint the picket before the porch.+
++Donít boil the corn in a kettle.+
++Youíre all peach and no cobbler.+
++Youíre sweeter than Kentucky corn bread.+
++You really silk my corn.+
++You really clean my clams.+
++You really muscle my mussels.+
++You really kindle my coal.+
++You really light my logs.+
++You really lick my salt.+
++You really start my Chevy.+
++Donít fondle your fiddle and play your partner.+
++Donít chop a log you find in a bog.+
++You canít use wet wood for a bonfire.+
++Donít put out the smoke before the fire.+
++Donít point after you shoot.+
++Donít keep your guns with your grain.+
++You canít float a boat in a drought.+
++Donít pick the corn before itís born.+
++Donít pitch a forking fit.+
++Donít call the cattle before you fasten the saddle.+
++Donít confuse a coil and a copperhead.+
++Donít bury your coil in poor soil. +
++You canít sow seeds in sandy soil.+
++Donít kill your swine before its time.+
++Donít kick a copperhead if you hear it rattle.+
++Donít stick your shoe in a snake den.+
++Donít heft a haybale heavier than you can carry.+
